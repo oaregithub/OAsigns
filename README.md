@@ -3,4 +3,16 @@ Repo of png files created in Adobe Illustrator to represent Old Assyrian cuneifo
 Content was created by Edward Stratford in 2021.
 Names of files correspond to their number as assigned in Mespotamisches Zeichenlexicon by R. Borger (2004). 
 Some files were numbered above the MZL system to accomodate sign alternates. Documentation to come on those in this file.
-Files are available under CC BY-SA 4.0 as designated in accompanying license file. 
+
+
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
